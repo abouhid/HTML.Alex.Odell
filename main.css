@@ -157,19 +157,20 @@
     background: var(--main-gray);
     box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
     border-radius: 2px;
+
+    height: fit-content;
   }
   
   .code {
     color: var(--main-gray);
     transition: color 0.3s ease-out;
   }
-  
+
   .project:hover .code {
     color: #ff7f50;
   }
   
   .project-image {
-    height: calc(100% - 6.8rem);
     width: 100%;
     object-fit: cover;
   }
@@ -178,5 +179,3 @@
     font-size: 2rem;
     padding: 2rem 0.5rem;
   }
-  /* Contact section */
-  
