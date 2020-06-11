@@ -1,6 +1,6 @@
 # HTML Project Microverse Trials
 
-> This is a project that was meant to recreate the google homepage, as a task of The Odin Project.
+> This project is meant to be used to test teamwork and knowledge on CSS/HTML.
 
 ## Built With
 
